@@ -5,3 +5,6 @@ Junqiang Luo
 == Wiki Home
 
 this is a test.
+
+<<TestWiki>> TestPage
+

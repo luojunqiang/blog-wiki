@@ -1,0 +1,7 @@
+= Welcome to the blog wiki!
+Junqiang Luo
+:toc:
+
+== Wiki Home
+
+this is a test.

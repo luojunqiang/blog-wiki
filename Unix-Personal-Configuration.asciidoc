@@ -1,0 +1,14 @@
+= Unix Configuration
+
+== Tools
+
+=== screen
+
+.screenrc
+----
+escape ^Oo
+bind o other
+bind ' ' windowlist -b 
+caption always "%n=[%t] time:[%c:%s] load:[%l]"
+----
+

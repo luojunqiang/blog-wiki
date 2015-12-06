@@ -4,4 +4,8 @@
 
 === Enable SSLv3
 
+----
+svn: E175002 SSL handshake failed no appropriate protocol protocol is disabled
+----
+
 update the ``/lib/security/java.security`` file and comment the line ``#jdk.tls.disabledAlgorithms=SSLv3``

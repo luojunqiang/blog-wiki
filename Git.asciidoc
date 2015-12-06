@@ -1,0 +1,13 @@
+= Git
+
+== Git Repositories
+
+----
+git clone /opt/git/project.git
+git remote add local_proj /opt/git/project.git
+git clone user@server:project.git       # git clone ssh://user@server/project.git
+git clone https://example.com/gitproject.git
+----
+
+.refs
+* https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols

@@ -1,5 +1,3 @@
-:ext-relative: {outfilesuffix}
-
 * Programming
 ** Languages
 *** link:Java[]
@@ -12,4 +10,4 @@
 *** link:Screen[]
 * Configuration
 ** Unix
-*** link:Unix-Personal-Configuration[]
+*** link:Unix-Personal-Configuration[Configuration]

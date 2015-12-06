@@ -1,0 +1,16 @@
+= Groovy
+
+== Adjust
+
+=== NIO Warning
+
+----
+groovy --version
+Aug 15, 2014 11:45:56 PM org.codehaus.groovy.runtime.m12n.MetaInfExtensionModule newModule
+WARNING: Module [groovy-nio] - Unable to load extension class [org.codehaus.groovy.runtime.NioGroovyMethods]
+Groovy Version: 2.3.6 JVM: 1.6.0_34 Vendor: Sun Microsystems Inc. OS: Linux
+----
+
+[source,shell]
+mv $GROOVY_HOME/lib/groovy-nio-2.3.6.jar $GROOVY_HOME/lib/groovy-nio-2.3.6.bak
+
